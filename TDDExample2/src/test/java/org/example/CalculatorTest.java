@@ -2,7 +2,7 @@
 //Yavuz Kibaroglu
 //SWE 202 SOFTWARE VERIFICATION AND VALIDATION
 //2023-2024 SPRING SEMESTER HOMEWORK 1
-//https://github.com/TahaYG/SWE202_HW1.git
+//https://github.com/Gebarteci/SWE202HW1
 
 
 package org.example;
